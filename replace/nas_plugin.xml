@@ -4,14 +4,14 @@
 <Text name="msg_yes">ןכ</Text>
 <Text name="msg_no">אל</Text>
 <Text name="msg_datetime_num1">1% / 2% / 4% -3%: 5%</Text>
-<Text name="msg_copying">.וכח ... תעצבתמ הקתעה</Text>
+<Text name="msg_copying">.ןתמה אנא ... תעצבתמ הקתעה</Text>
 <Text name="msg_copied">.המלשוה קתעה</Text>
 <Text name="msg_copy_cancel_ask">?קתעה תלועפ תא לטבל</Text>
 <Text name="msg_copied_delete_content_saved_ps3_ask">?™ PS3 תכרעמב רמשנ םייקה ןכותה תא קחמ .המלשוה קתעה</Text>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_copy">.קתועה תא עצבמ ךלהמב האיגש העריא</Text>
@@ -27,7 +27,7 @@
 <Text name="msg_no_longer_valid">.דוע הנימז הניא גפ ןכותה</Text>
 <Text name="msg_error_cannnot_use_24hr">.™ PS3 תרחא תכרעמב שמתשהל תונורחאה תועשה 24 תא יתיליב רשאכ ןימז היהי ןכותה .תכרעמה לע הז בלשב וב שמתשהל ןתינ אל</Text>
 <Text name="msg_exe_other_accont_psp_ask">?ךשמה .הפקת אל רבכ איה תיחכונה הלעפהה ,תאז השעת םא .רחא ןובשח םע לעפוה ™ PSP תכרעמ</Text>
-<Text name="msg_activating_for_video_pls_wait">.רתוי וא הקד ךשמיהל היושע וז תכרעמ תלעפה .וכח ... תעצבתמ הלעפהה</Text>
+<Text name="msg_activating_for_video_pls_wait">.רתוי וא הקד ךשמיהל היושע וז תכרעמ תלעפה .ןתמה אנא ... תעצבתמ הלעפהה</Text>
 <Text name="msg_cannot_download_again">.ןכותה תא שדחמ דירוהל ןתינ</Text>
 <Text name="msg_error_cannot_use_content_with_your_account">.ןובשחהמ ןכותל תשגל תורשפא ןיא</Text>
 <Text name="msg_error_psp_not_activated_activate_pls">.™ PSP-ה תא ךופהל [ןובשח לוהינ] ;PlayStation ® Network] > ] רחב .לעפומ אל ™ PSP תכרעמל רבוחמ</Text>
@@ -40,7 +40,7 @@
 <Text name="msg_tool_install_pls_wait">.ןתמה אנא ... תנקתה</Text>
 <Text name="msg_tool_installed">.המלשוה ןקתה</Text>
 <Text name="msg_tool_error_install">.ןיקתהל עצבמה ךלהמב האיגש העריא</Text>
-<Text name="msg_smoving">.וכח ... תעצבתמ הרבעה</Text>
+<Text name="msg_smoving">.ןתמה אנא ... תעצבתמ הרבעה</Text>
 <Text name="msg_smove_cancel_ask">?הפלחהה תלועפ תא לטבל</Text>
 <Text name="msg_smoved">.המייתסה הרבעהה</Text>
 <Text name="msg_error_smove">.ךלהמה תא עצבמ ךלהמב האיגש העריא</Text>
@@ -53,7 +53,7 @@
 <Text name="msg_installed_latest_version_game_no_need">.וז הסריג ןיקתהל ךרוצ ןיא .רתוי השדח הסרג תנקתומ רבכ שי</Text>
 <Text name="msg_software_update_feature">1 הסרג %הנתשה</Text>
 <Text name="msg_cancel_purchase_ask">?השיכר לוטיב</Text>
-<Text name="msg_download_pls_wait">.וכח ... תעצבתמ דרוה</Text>
+<Text name="msg_download_pls_wait">.ןתמה אנא ... תעצבתמ דרוה</Text>
 <Text name="msg_download_cancel_ask">?הדרוהה תא לטבל</Text>
 <Text name="msg_download_incomplete">.לטוב רבכ דירוהל עצבמה .יונפ םוקמ קיפסמ ןיא</Text>
 <Text name="msg_error_content_over_download">.לטוב רבכ דירוהל עצבמה .רומשל ןתינש ןכות יטירפ לש יברמה רפסמל תעגה</Text>
@@ -61,8 +61,8 @@
 <Text name="msg_error_save_error">.ךוסחל עצבמה ךלהמב האיגש העריא</Text>
 <Text name="msg_psp_usb_connect">.™ PSP תכרעמב [תורדגה] תחת [USB רוביח] רחב ,USB לבכ תועצמאב ™ PSP ה תא רבח</Text>
 <Text name="msg_error_dns">.DNS תאיגש .תרשה םע תרושקתה ךלהמב האיגש העריא</Text>
-<Text name="msg_authorization_pls_wait">.וכח ... תעצבתמ הלעפהה</Text>
-<Text name="msg_install_pls_wait">.וכח ... תעצבתמ הנקתהה</Text>
+<Text name="msg_authorization_pls_wait">.ןתמה אנא ... תעצבתמ הלעפהה</Text>
+<Text name="msg_install_pls_wait">.ןתמה אנא ... תעצבתמ הנקתהה</Text>
 <Text name="msg_installed">.האלמ הנקתה</Text>
 <Text name="msg_error_connect_server">.תרשל רבחתהל תורשפא ןיא</Text>
 <Text name="msg_error_install">.הנקתהה ךלהמב האיגש העריא</Text>

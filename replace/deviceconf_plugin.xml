@@ -26,7 +26,7 @@
 <Text name="msg_5">5</Text>
 <Text name="msg_6">6</Text>
 <Text name="msg_7">7</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_info">עדימ</Text>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_controller">רקב</Text>
@@ -34,9 +34,9 @@
 <Text name="msg_controller_assign">ירקב לש שדחמ האצקה</Text>
 <Text name="msg_controller_vibration_function">היצקנופ טטר</Text>
 <Text name="msg_error_cannot_use_wireless_device">.םירחא םייטוחלא םירישכמל רבחתהל תורשפא ןיא</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_setting">.הרדגהה תא םילשהל ןתינ אל</Text>
 <Text name="msg_setting_init_ask2">?תורדגהה תא רזחשל הצור תמאב התא</Text>
@@ -56,7 +56,7 @@
 <Text name="msg_bluetooth_connection">(® Bluetooth) רבח</Text>
 <Text name="msg_audio_device_register">תוינזוא איש</Text>
 <Text name="msg_keyboard_mouse_register">רבכע / תדלקמ םשרה</Text>
-<Text name="msg_connecting_pls_wait">.וכח ... רבחתמ</Text>
+<Text name="msg_connecting_pls_wait">.ןתמה אנא ... רבחתמ</Text>
 <Text name="msg_error_connect_failure">.רשק רוציל תורשפא ןיא</Text>
 <Text name="msg_eyetoy2">המלצמ USB</Text>
 <Text name="msg_device_name">ןקתה םש</Text>
@@ -89,7 +89,7 @@
 <Text name="msg_error_invalid_passkey_register_retry_pls">.ךלש הטלקה תושעל הסנ .הנוכנ הניא המסיסה</Text>
 <Text name="msg_error_controller_over">.םירקב 7 דע שמתשהל ןתינ .שמתשהל ןתינ ירקב לש יברמה רפסמל תעגה</Text>
 <Text name="msg_error_cannot_register_wireless_device">.םיפסונ םייטוחלא םינקתה טילקהל לוכי אל</Text>
-<Text name="msg_registering2">.וכח ... תעצבתמ הטלקהה</Text>
+<Text name="msg_registering2">.ןתמה אנא ... תעצבתמ הטלקהה</Text>
 <Text name="msg_bdremote_register_operation2">.הנתשמ ךסמה דע ץוחל םתוא רומשלו טילקהל ךנוצרבש BD קוחר טלשב ENTER ליחתהל תונותיעב ליבקמב</Text>
 <Text name="msg_bdremote_register_operation_current_release2">.תכרעמב תעכ רדגומ BD קחורמה םושיר לטבל םאה .הנתשמ ךסמה דע ץוחל םתוא רומשלו טילקהל ךנוצרבש BD קוחר טלשב ENTER ליחתהל תונותיעב ליבקמב</Text>
 <Text name="msg_bt_high_quality_mode">(HQ) ההובג תוכיא יבצמ</Text>
@@ -98,7 +98,7 @@
 <Text name="msg_set_echo_canceler_explanation">.ןופורקימב שומיש תעב דה עמוש התא םא וז תורשפאב רחב .עמשה בושמ םצמצל תנמ לע לוק טלפה תא לייכמ תיטמוטוא</Text>
 <Text name="msg_restore_calibration_data_explanation">.דה תאצוה לש תיחכונה הרדגהה תא קחמ</Text>
 <Text name="msg_set_echo_canceler_preparation_explanation">.םילוקמרהמ לוקה תא ההזמ ןופורקימה דע לוקמרה תמצוע תא ריבגהלו םילוקמרה דיל ןופורקימ םוקמב ,ליחתתש ינפל</Text>
-<Text name="msg_adjusting_pls_wait">.וכח ... עצבתמ לויכה</Text>
+<Text name="msg_adjusting_pls_wait">.ןתמה אנא ... עצבתמ לויכה</Text>
 <Text name="msg_set_echo_canceler_completed">.דה תרסה לש היצקנופה רובע לדחמה תרירב תורדגה תא רזחשת [עמש טלפ תורדגה] תורדגה תא הנשת םא .המלשוה תרדגה</Text>
 <Text name="msg_restore_completed">.אלמ םוקיש</Text>
 <Text name="msg_error_no_mic">.ואצמנ אל ןופורקימה</Text>
@@ -106,8 +106,8 @@
 <Text name="msg_hdmi">HDMI</Text>
 <Text name="msg_avmulti">AV Multi</Text>
 <Text name="msg_optical">יטפוא ילטיגיד</Text>
-<Text name="msg_searching">.וכח ... הקירס</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_searching">.ןתמה אנא ... הקירס</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_error_no_execute">.ןימז עצבמ</Text>
 <Text name="msg_edit">יוניש</Text><Text name="msg_start">לחתה</Text>
 </TextLang>

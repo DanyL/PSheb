@@ -10,7 +10,7 @@
 <Text name="msg_tracks_count_value">םילולסמ 1%</Text>
 <Text name="msg_play">קחשמ</Text>
 <Text name="msg_display">ףונ</Text>
-<Text name="msg_folder_class2_with_icon">ןכות תצובק :</Text>
+<Text name="msg_folder_class2_with_icon">ןכות יפל תצובק :</Text>
 <Text name="msg_help_add_option_play_playlist">קחשל :תויורשפא : ףסוה :E%</Text>
 <Text name="msg_help_add_option_pause_playlist">ההשה :תויורשפא : ףסוה :E%</Text>
 <Text name="msg_help_add_option_view_playlist">הפצ :תויורשפא : ףסוה :E%</Text>
@@ -30,6 +30,6 @@
 <Text name="msg_error_no_content">.ןכות טירפ ןיא</Text>
 <Text name="msg_playlist_playlist_name">(1 %) העמשה תמישר</Text>
 <Text name="msg_add_playlist">ףיסוהל</Text>
-<Text name="msg_add_all_playlist">לכ ףסוה</Text>
+<Text name="msg_add_all_playlist">לכה ףסוה</Text>
 <Text name="msg_error_display">.הנומתה תא גיצהל תורשפא ןיא</Text>
 </TextLang>

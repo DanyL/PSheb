@@ -22,7 +22,7 @@
 <Text name="msg_user_name">שמתשמ םש</Text>
 <Text name="msg_need_quit_to_operate_ask">?וישכע הנכותה תא רוגס .]1%] רוגסל ךילע ,תאז תושעל ידכ</Text>
 <Text name="msg_completed_count">םלשוה</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_pw">המסיס</Text>
 <Text name="msg_go_to_psn_area">PlayStation ® Network-ה לא רובע</Text>
@@ -48,7 +48,7 @@
 <Text name="msg_upload_photo_to_facebook">?קובסייפ תולעהל הנומת</Text>
 <Text name="msg_visible_to_public">זירכהל</Text>
 <Text name="msg_make_album_public">רוביצה הזה םובלאה תא ךופה</Text>
-<Text name="msg_visible_to_public_caution_facebook">.[דבלב םירבחל] עבק ,וז תורשפאב רחוב ךניא םא .[לכ] רדגומ הז םובלא רובע קובסייפ לש תויטרפה תרדגה ,וז תורשפאב רחבת םא</Text>
+<Text name="msg_visible_to_public_caution_facebook">.[דבלב םירבחל] עבק ,וז תורשפאב רחוב ךניא םא .[לכה] רדגומ הז םובלא רובע קובסייפ לש תויטרפה תרדגה ,וז תורשפאב רחבת םא</Text>
 <Text name="msg_visible_to_public_caution_flickr">.בשחמ תועצמאב תוריש תשרה לש טנרטניאה רתא לא רובע ,ךלש תורדגהה תא תונשל ידכ וא ןכות לש תוארנה לע עדימ תלבקל .רידגהל ךל רשפאמ תשר תוריש יכ ,םישמתשמ לש רתוי בחר ןווגמ ךותמ תוארל ןתינ ןכותה</Text>
 <Text name="msg_visible_to_public_caution_google">.בשחמ תועצמאב תוריש תשרה לש טנרטניאה רתא לא רובע ,ךלש תורדגהה תא תונשל ידכ וא ןכות לש תוארנה לע עדימ תלבקל .הרחבנ אל וז תורשפא םא םג ןכותה תא תוארל רתומ והשימ יכ ןכתי .רידגהל ךל רשפאמ תשר תוריש יכ ,םישמתשמ לש רתוי בחר ןווגמ ךותמ תוארל ןתינ ןכותה ,הרחבנ וז תורשפא םא</Text>
 <Text name="msg_description">רואת</Text>
@@ -56,13 +56,13 @@
 <Text name="msg_unassociate_network_service_variable_ask">?ךשמה .וקחמיי ]1 %] ןובשחב עדימה</Text>
 <Text name="msg_error_create_content_number_over">.רוציל ןתינ רשא ,ןכות יטירפ לש יברמה רפסמל תעגה</Text>
 <Text name="msg_upload">םולשת</Text>
-<Text name="msg_upload_pls_wait">.וכח ... ןעוט</Text>
+<Text name="msg_upload_pls_wait">.ןתמה אנא ... ןעוט</Text>
 <Text name="msg_upload_cancel_ask">?הניעטה תלועפ תא לטבל</Text>
 <Text name="msg_upload_complete">.האלמ הניעט</Text>
 <Text name="msg_close">בורק</Text>
 <Text name="msg_aboutus_pp_tosua_psn">Terms of Service | תויטרפ תוינידמ | וניתודוא</Text>
 <Text name="msg_error_service_not_available_region">.הז רוזא וא וז הנידמב ןימז וניא תורישה</Text>
-<Text name="msg_sigining_in">.וכח ... ב םושיר</Text>
+<Text name="msg_sigining_in">.ןתמה אנא ... ב םושיר</Text>
 <Text name="msg_automatic_signin_from_next_time">(Auto) תיטמוטוא הסינכ</Text>
 <Text name="msg_auto_signin_off">Auto Sign-Off</Text>
 <Text name="msg_signin">תורבחתה</Text>

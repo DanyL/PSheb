@@ -3,7 +3,7 @@
 <TextLang>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_sure_to_delete_ask">?הז תא קוחמל הצור תמאב התא</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_del">.קוחמל עצבמה ךלהמב האיגש העריא</Text>

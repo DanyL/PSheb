@@ -13,7 +13,7 @@
 <Text name="msg_track_count_value">ריש 1%</Text>
 <Text name="msg_tracks_count_value">םילולסמ 1%</Text>
 <Text name="msg_fractional_number">% 1 / 2%</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_repeat">לע רוזחל</Text>
 <Text name="msg_shuffle">יארקא</Text>
 <Text name="msg_stop">רוצע</Text>
@@ -33,7 +33,7 @@
 <Text name="msg_help_control_panel_home_menu">ישאר טירפת :הרקבה חול :</Text>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_playback_quit_ask">?העמשה רוצע</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>

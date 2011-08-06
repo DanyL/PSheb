@@ -8,7 +8,7 @@
 <Text name="msg_yes">ןכ</Text>
 <Text name="msg_no">אל</Text>
 <Text name="msg_nrml">ילמרונ</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_stop">רוצע</Text>
 <Text name="msg_slow_f">(המידק) יטיא</Text>
 <Text name="msg_slow_r">(הרזח) יטיא</Text>
@@ -23,7 +23,7 @@
 <Text name="msg_fast_f_with_icon"> המידק הצרה</Text>
 <Text name="msg_play_with_icon"> קחש</Text>
 <Text name="msg_pause_with_icon"> ההשה</Text>
-<Text name="msg_folder_class_with_icon"> ןכות תצובק</Text>
+<Text name="msg_folder_class_with_icon"> ןכות יפל תצובק</Text>
 <Text name="msg_help_lstick_move">זזה :לאמש לקמ</Text>
 <Text name="msg_help_rstick_zoom">קחרה / ברק :ןימי לקמ</Text>
 <Text name="msg_select_gaiji"></Text>
@@ -34,7 +34,7 @@
 <Text name="msg_ps3_video">(ואדיו) חישק ןנוכ קסיד</Text>
 <Text name="msg_completed_count">םלשוה</Text>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_unsupported_data">.ךמתנ וניא םינותנ גוס</Text>
@@ -49,7 +49,7 @@
 <Text name="msg_change">תונשל</Text>
 <Text name="msg_saved">.םירומש</Text>
 <Text name="msg_pw">המסיס</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_error_server_connect_timeout">.תרשל רוביחה רובע ןמז קספ</Text>
 <Text name="msg_tool_delete_install_package">הנקתה תליבח קחמ ★</Text>
 <Text name="msg_bgm">הקיסומ</Text>
@@ -127,7 +127,7 @@
 <Text name="msg_error_service_stop">.קספוה תורישה</Text>
 <Text name="msg_error_congestion_service">.רתוי רחואמ בוש הסנ אנ .קוסע אוה תורישה</Text>
 <Text name="msg_upload">םולשת</Text>
-<Text name="msg_upload_pls_wait">.וכח ... ןעוט</Text>
+<Text name="msg_upload_pls_wait">.ןתמה אנא ... ןעוט</Text>
 <Text name="msg_upload_cancel_ask">?הניעטה תלועפ תא לטבל</Text>
 <Text name="msg_upload_complete">.האלמ הניעט</Text>
 <Text name="msg_error_cannot_upload_not_enough_space">.יונפ םוקמ קיפסמ ןיא .הז ןכות ןועטל ןתינ אל</Text>
@@ -144,11 +144,11 @@
 <Text name="msg_aboutus_pp_tosua_psn">Terms of Service | תויטרפ תוינידמ | וניתודוא</Text>
 <Text name="msg_error_service_not_available_region">.הז רוזא וא וז הנידמב ןימז וניא תורישה</Text>
 <Text name="msg_cancel_ask">?לוטיב</Text>
-<Text name="msg_sigining_in">.וכח ... ב םושיר</Text>
+<Text name="msg_sigining_in">.ןתמה אנא ... ב םושיר</Text>
 <Text name="msg_signin">תורבחתה</Text>
 <Text name="msg_edit">יוניש</Text>
 <Text name="msg_save">ליצהל</Text>
-<Text name="msg_saving">.וכח ... רמוש</Text>
+<Text name="msg_saving">.ןתמה אנא ... רמוש</Text>
 <Text name="msg_cancel2">לטבל</Text>
 <Text name="msg_version">הסרג</Text>
 <Text name="msg_error_character">1% :םיאבה םיוותה תא ןיזהל ןתינ אל</Text>

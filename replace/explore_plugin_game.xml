@@ -8,12 +8,12 @@
 <Text name="msg_psp">PSP ™ (PlayStation ® Portable)</Text>
 <Text name="msg_psp_bracket">PSP ™ (PlayStation ® Portable) 1%</Text>
 <Text name="msg_usb">USB ןקתה</Text>
-<Text name="msg_usb_id">(USB (% 1 ןקתה</Text>
+<Text name="msg_usb_id">(1%) 'סמ USB ןקתה</Text>
 <Text name="msg_digitalcamera">תילטיגיד המלצמ</Text>
 <Text name="msg_digitalcamera_id">(1 %) תילטיגיד המלצמ</Text>
 <Text name="msg_walkman">ATRAC Audio Device</Text>
 <Text name="msg_walkman_id">(1 %) עמשה ןקתה ATRAC</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_space">לוסיח</Text>
 <Text name="msg_corrupted_data">םימוגפ םינותנ</Text>

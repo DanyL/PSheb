@@ -5,7 +5,7 @@
 <Text name="msg_info_none">-</Text>
 <Text name="msg_select_all">לכה רחב</Text>
 <Text name="msg_deselect_all">לכה הקנ</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_number_slash_number">% 1 / 2%</Text>

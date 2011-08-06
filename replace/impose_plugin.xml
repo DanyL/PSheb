@@ -31,13 +31,13 @@
 <Text name="msg_controller_assign">ירקב לש שדחמ האצקה</Text>
 <Text name="msg_controller_setting">תורדגה רקב</Text>
 <Text name="msg_controller_vibration_function">היצקנופ טטר</Text>
-<Text name="msg_controller_vibration_function_explanation">.טטר היצקנופ םיכמותה ירקב לכ לע הלח וז הרדגה</Text>
+<Text name="msg_controller_vibration_function_explanation">.טטר היצקנופ םיכמותה ירקב לכה לע הלח וז הרדגה</Text>
 <Text name="msg_error_fatal1">.לדחמה תרירב תורדגה תא רזחשלו ןקתל ו %לע ץחל .םוגפ הנקתהה עדימה</Text>
 <Text name="msg_error_fatal2">.עויס לבקל ידכ תינכטה הכימתה םע רשק רוצ .הרומח תועט שי</Text>
 <Text name="msg_press_ps_button">.PS ןצחלה לע וצחל</Text>
 <Text name="msg_cannot_back_to_ps_home_ask">?ךשמה .PlayStation ® Home רוזחל לוכי אל התא ,תאז השעת םא</Text>
 <Text name="msg_back_to_ps_home_ask">?PlayStation ® Home לא רוזח</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_hdd_no_access">.חישקה ןנוכה לא תשגל ןתינ אל</Text>
 <Text name="msg_error_hdmi">.HDMI ןקתהב האיגש העריא</Text>

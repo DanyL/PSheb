@@ -16,7 +16,7 @@
 <Text name="msg_minus3">-3</Text>
 <Text name="msg_minus4">-4</Text>
 <Text name="msg_minus5">-5</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_volume_control">לוקה תמצוע ןונווכ</Text>
 <Text name="msg_plus">+</Text>
 <Text name="msg_minus">-</Text>
@@ -24,9 +24,9 @@
 <Text name="msg_size">לדוג</Text>
 <Text name="msg_updated_date">ןכדועמ</Text>
 <Text name="msg_folder">Folder</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_chat_setting">טא'צ תורדגה</Text>
@@ -38,7 +38,7 @@
 <Text name="msg_ps_plus_only_feature">PlayStation ® Plus ירבחל קרו ךא הרומש וז היצקנופ</Text>
 <Text name="msg_entry">רבחתה</Text>
 <Text name="msg_participant_count_variable">1% םיפתתשמה</Text>
-<Text name="msg_error_not_registered">.םדא לכ הפרוצ אל</Text>
+<Text name="msg_error_not_registered">.םדא לכה הפרוצ אל</Text>
 <Text name="msg_head_count">ילבקמ</Text>
 <Text name="msg_head_count_variable">1% לש דעיה</Text>
 <Text name="msg_voice_text_chat">לוק / טא'צ טסקט</Text>
@@ -66,7 +66,7 @@
 <Text name="msg_time_variable_you_joined">.1% סנכנ אוה</Text>
 <Text name="msg_number_of_room">םיצורע</Text>
 <Text name="msg_delete_text_chatroom">?ךישמהל הצור תמאב התא .ולטובי טא'צה רדח</Text>
-<Text name="msg_delete_text_chatroom_plural">?ךישמהל הצור תמאב התא .ולטובי טא'צה ירדח לכ</Text>
+<Text name="msg_delete_text_chatroom_plural">?ךישמהל הצור תמאב התא .ולטובי טא'צה ירדח לכה</Text>
 <Text name="msg_error_cannot_use_info_entered">.שמתשהל ןתינ אל קפסתש עדימה</Text>
 <Text name="msg_error_no_chatroom">.ןימז טא'צ ירדח ןיא</Text>
 <Text name="msg_mic_on">ןופורקימה</Text>

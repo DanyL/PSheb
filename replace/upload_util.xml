@@ -13,7 +13,7 @@
 <Text name="msg_upload">םולשת</Text>
 <Text name="msg_username_youtube">™ YouTube שמתשמ םש</Text>
 <Text name="msg_password_youtube">™ YouTube המסיס</Text>
-<Text name="msg_upload_pls_wait">.וכח ... ןעוט</Text>
+<Text name="msg_upload_pls_wait">.ןתמה אנא ... ןעוט</Text>
 <Text name="msg_upload_cancel_ask">?הניעטה תלועפ תא לטבל</Text>
 <Text name="msg_upload_complete">.האלמ הניעט</Text>
 <Text name="msg_error_wrong_username_pw">.םייקוח אל המסיס וא שמתשמ םש</Text>

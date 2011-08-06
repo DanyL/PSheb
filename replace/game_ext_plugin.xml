@@ -11,8 +11,8 @@
 <Text name="msg_error_hdd_full_perform_operation">.רתוי 1% תוחפל חטש לעב תויהל ךילע ,תאז תושעל ידכ .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_same_file_name_overwrite_ask">?ותוא ףילחהל .ההז םש םע ץבוק רבכ שי</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_unsupported_data">.ךמתנ וניא םינותנ גוס</Text>
@@ -38,7 +38,7 @@
 <Text name="msg_installed_press_circle_to_restart">.%שדחמ ןצחל לע וצחל .האלמ הנקתה</Text>
 <Text name="msg_error_game_cannot_start_wo_install">.חישקה ןנוכה לע ןקתומ ךל שי םא קר ליחתהל ןתינ קחשמה</Text>
 <Text name="msg_game_area_create_ask">?קחשמה לש הציחמה תריצי .תוקד 2% ךרעב חקול הזה עצבמה תא םילשהל ידכ .קחשמה רובע 1% לש הציחמ רוציל ,חישקה ןנוכה לע ותוא ןיקתהל ידכ .חישקה ןנוכה תא םאות קחשמה</Text>
-<Text name="msg_game_area_creating">.וכח ... יחכונה קחשמל הציחמה תריצי</Text>
+<Text name="msg_game_area_creating">.ןתמה אנא ... יחכונה קחשמל הציחמה תריצי</Text>
 <Text name="msg_error_hdd_full_gamearea">.רתוי 1% תוחפל םוקמ תויהל בייח הנקתהה רובע .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_vmc_create_ask">?וישכע ותוא רוצ .חישקה ןנוכב ימינפ ןורכיז סיטרכ רוציל ךילע ,םינותנ רומשל ידכ</Text>
 <Text name="msg_vmc_create_ask_yes_ps1">.קחשמה תא שדחמ לעפה ןכמ רחאלו ,אבה ךסמב [ימינפ סיטרכ שדח ןורכיז תריצי] מ (PS) ןורכיז סיטרכ תריצי</Text>
@@ -85,7 +85,7 @@
 <Text name="msg_error_corrupted_gamedata">.םוגפ קחשמ ינותנ</Text>
 <Text name="msg_error_corrupted_gamedata_game_quit_delete_pls">.קחשמ םינותנה תא קוחמל ,ותוא ץירהל ידכ .רמגנ קחשמה .םוגפ קחשמ ינותנ</Text>
 <Text name="msg_error_corrupted_installgame_game_quit_delete_pls">.ןקתומ קחשמה תא שדחמ ןיקתהלו ריסהל םיכירצ ונחנא הזה קחשמה תא ץירהל ידכ .ןקתוי תחשומ אוה קחשמה</Text>
-<Text name="msg_install_pls_wait">.וכח ... תעצבתמ הנקתהה</Text>
+<Text name="msg_install_pls_wait">.ןתמה אנא ... תעצבתמ הנקתהה</Text>
 <Text name="msg_error_install">.הנקתהה ךלהמב האיגש העריא</Text>
 <Text name="msg_content_not_support_remoteplay">.קוחרמ קחשל םאות וניא הז ןכות</Text>
 <Text name="msg_error_need_certification">.תכרעמה תא ליעפהל ידכ [ןובשח לוהינ] ;PlayStation ® Network] > ] רחב .תכרעמה תא ליעפהל ךילע ,ןכותל תשגל ידכ</Text>

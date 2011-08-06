@@ -11,8 +11,8 @@
 <Text name="msg_network_connection">תשר</Text>
 <Text name="msg_select_all">לכה רחב</Text>
 <Text name="msg_deselect_all">לכה הקנ</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_setting_save">.תורדגהה תא רומשל ידכ ו %לע ץחל</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_printer_manager">הספדה לוהינ</Text>
@@ -40,7 +40,7 @@
 <Text name="msg_others_network_standard">(יטרדנטס תשר) םירחא</Text>
 <Text name="msg_select_image_to_print">.הספדהל תונומתה תא רחב</Text>
 <Text name="msg_error_printer_not_selected">.תספדמה תא רחבו ,[תספדמ תריחב] ,[תספדמ תורדגה] ,[תורדגה] רחב .הרחבנ אל תספדמה</Text>
-<Text name="msg_printing_pls_wait">.וכח ... תעצבתמ הספדהה</Text>
+<Text name="msg_printing_pls_wait">.ןתמה אנא ... תעצבתמ הספדהה</Text>
 <Text name="msg_check_settings_while_background_print">.[תורדגה] תחת [תספדמ תורדגה] עקרב הספדה תדובע לטבל וא בצמ תא קודבל לוכי התא</Text>
 <Text name="msg_advanced_setting">תומדקתמ תורדגה</Text>
 <Text name="msg_error_printer_connection">.לעפומו תרבוחמ תספדמה יכ אדו .תספדמה םע תרושקת האיגש התיה</Text>
@@ -57,7 +57,7 @@
 <Text name="msg_error_printer_battery_check_printer">.תספדמה תא קודב .תספדמה לש האיגשה הללוס</Text>
 <Text name="msg_error_output_tray_closed_check_printer">.תספדמה תא קודב .רוגס תספדמה לש טלפ שגמ</Text>
 <Text name="msg_error_printer_busy_pls_wait">.הקוסע תספדמה</Text>
-<Text name="msg_error_print_canceling_pls_wait">.וכח ... תעצבתמ הספדה תמישמ לוטיב</Text>
+<Text name="msg_error_print_canceling_pls_wait">.ןתמה אנא ... תעצבתמ הספדה תמישמ לוטיב</Text>
 <Text name="msg_print_quality">הספדה תוכיא</Text>
 <Text name="msg_print_quality_select">.הספדהה תוכיא לש המרה תא רחב</Text>
 <Text name="msg_error_cannot_operate_print">.הספדהה ןמזב הלועפה תא עצבל ןתינ אל</Text>
@@ -69,11 +69,11 @@
 <Text name="msg_check_printer_message">.תספדמב גצומ רסמה תא קודב</Text>
 <Text name="msg_check_printer_connection_power">.לעפומו תרבוחמ תספדמה יכ אדו</Text>
 <Text name="msg_printer_select_connect_printer">.וליעפהל ו ™ PS3 תכרעמל תמאות תספדמ רוביח .שומישל תספדמה תא רחב</Text>
-<Text name="msg_error_no_printer">.לעפומו תרבוחמ תספדמה יכ אדו .™ PS3 תכרעמל תמאות תספדמ לכ האצמנ אל</Text>
+<Text name="msg_error_no_printer">.לעפומו תרבוחמ תספדמה יכ אדו .™ PS3 תכרעמל תמאות תספדמ לכה האצמנ אל</Text>
 <Text name="msg_error_check_printer">.תספדמה תא קודב</Text>
 <Text name="msg_cancel_setup_ask">.ורמשיי אל הכ דע ורחבנש תורדגהה ,הלועפה תא לטבת םא ?לוטיב</Text>
 <Text name="msg_connection_method">רוביח תטיש</Text>
-<Text name="msg_searching">.וכח ... הקירס</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_searching">.ןתמה אנא ... הקירס</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_run_in_background">עקרב</Text>
 </TextLang>

@@ -4,5 +4,5 @@
 <Text name="msg_cannot_save_screenshot_now">.הז בלשב ךסמה לש הנומתה תא רומשל תורשפא ןיא</Text>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
-<Text name="msg_saving">.וכח ... רמוש</Text>
+<Text name="msg_saving">.ןתמה אנא ... רמוש</Text>
 </TextLang>

@@ -39,8 +39,8 @@
 <Text name="msg_kbps">1% kbps</Text>
 <Text name="msg_mbps">% 1 Mbps</Text>
 <Text name="msg_initsetup">תרוצת ינושאר</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_setting_save">.תורדגהה תא רומשל ידכ ו %לע ץחל</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_hdd_no_access">.חישקה ןנוכה לא תשגל ןתינ אל</Text>
@@ -69,7 +69,7 @@
 <Text name="msg_address_setting">תורדגה תבותכ</Text>
 <Text name="msg_easy">יסופיט</Text>
 <Text name="msg_error_connect_check_method">.רוביחה תטיש תא קודב .רוביח תאיגש שי</Text>
-<Text name="msg_netsetting_cheking">.וכח ... תעצבתמ תשרה תרוצת תא קודב</Text>
+<Text name="msg_netsetting_cheking">.ןתמה אנא ... תעצבתמ תשרה תרוצת תא קודב</Text>
 <Text name="msg_pppoe_user">שמתשמ םש PPPoE</Text>
 <Text name="msg_pppoe_pw">PPPoE Password</Text>
 <Text name="msg_proxyserver">Proxy Server</Text>
@@ -127,7 +127,7 @@
 <Text name="msg_search_apssid_guid">.עודי וניא SSID םש רחב .השיגה תדוקנ לש SSID שפחי ™ PS3 תכרעמ</Text>
 <Text name="msg_manual_apssid_guide">.השיגה תדוקנ לש SSID-ה תא תינדי הנזה</Text>
 <Text name="msg_eachap_autosetting_guide">.תיטוחלא LAN תשר לש תיטמוטוא הרוצת תכמותה השיג תדוקנב שמתשמ התא םא רחב .השיג תדוקנ לש גוס לע ססבתהב תיטמוטוא הרוצת</Text>
-<Text name="msg_searching">.וכח ... הקירס</Text>
+<Text name="msg_searching">.ןתמה אנא ... הקירס</Text>
 <Text name="msg_ap_select">.שומישל השיגה תדוקנ תא רחב</Text>
 <Text name="msg_unsupported">םיכמתנ אל</Text>
 <Text name="msg_signalstrength">תואה תמצוע</Text>
@@ -150,10 +150,10 @@
 <Text name="msg_pw">המסיס</Text>
 <Text name="msg_saved_access_point_restart_1min">.הקד 1 תוחפל שורדי השיגה תדוקנ תא שדחמ לחתא .םירומש</Text>
 <Text name="msg_aoss_pushbtn">.תוקד יתש ךות ןצחל לע םיצחול אל םא לטובת הקסעה .בהבהל הליחתמ AOSS ןווחמ דע השיגה תדוקנ לש AOSS" ןצחל" תא קזחהו ץחל</Text>
-<Text name="msg_aoss_wait">... וכח .תוינש 10 ךרעב חקול השיגה תדוקנ תנכהל</Text>
+<Text name="msg_aoss_wait">... ןתמה אנא .תוינש 10 ךרעב חקול השיגה תדוקנ תנכהל</Text>
 <Text name="msg_error_toomanyap">.תוחפ השיג תודוקנ םע םוקמב הרוצתה תא לעפה .ידמ תובר השיג תודוקנ ןנשי</Text>
 <Text name="msg_error_setting_timeout">.הרוצת ךלהמב האיגש תאצל ןמז היה</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_raku_pushbtn1">.[קורי] ב תבהבהמ LED "חוכ" דע השיגה תדוקנ לש "לחתה Rakuraku ןצחל" תא קזחהו ץחל
 .לטובי עצבמה ,1 הקד ךות רותפכה לע ץוחלל אל התא םא
 ."Rakuraku לחתה ןצחל" ילבמ רצומה לש רוביחה תטיש לע ,רצומה ףוריצ לש ךירדמב ןייע אנ *</Text>
@@ -182,19 +182,19 @@
 <Text name="msg_error_ipaddress_timeout_wrong_pw2">.םייוגש תנזהש WEP חתפמ תא יכ ןכתי .IP-ה תבותכ תלבק רובע ןמז קספ</Text>
 <Text name="msg_error_keyexchange_timeout_wrong_pw">.םייוגש תנזהש WPA חתפמה יכ ןכתי .בושח עדימ יפוליחל ןמזה קספ</Text>
 <Text name="msg_error_keyexchange_timeout_wrong_pw2">.םייוגש תנזהש WPA חתפמה יכ ןכתי .בושח עדימ יפוליחל ןמזה קספ</Text>
-<Text name="msg_error_ap_notfound_wrong_ssid">.םייוגש תנזהש השיגה תדוקנ SSID וא שלח תואה יכ ןכתי .השיג תדוקנ לכ תוהזל היה אל הז</Text>
-<Text name="msg_error_ap_notfound_wrong_ssid2">.םייוגש תנזהש השיגה תדוקנ SSID וא שלח תואה יכ ןכתי .השיג תדוקנ לכ תוהזל היה אל הז</Text>
+<Text name="msg_error_ap_notfound_wrong_ssid">.םייוגש תנזהש השיגה תדוקנ SSID וא שלח תואה יכ ןכתי .השיג תדוקנ לכה תוהזל היה אל הז</Text>
+<Text name="msg_error_ap_notfound_wrong_ssid2">.םייוגש תנזהש השיגה תדוקנ SSID וא שלח תואה יכ ןכתי .השיג תדוקנ לכה תוהזל היה אל הז</Text>
 <Text name="msg_error_server_connect_timeout">.תרשל רוביחה רובע ןמז קספ</Text>
 <Text name="msg_error_netservice_timeout">.® PlayStation תשרל רוביחה רובע ןמז קספ</Text>
 <Text name="msg_error_retry_connect_test">.רשקה ןחבמ תא תינש הסנ</Text>
 <Text name="msg_error_connect">.רוביח תאיגש שי</Text>
 <Text name="msg_error_pppoe_com">.תרושקת PPPoE האיגש התיה</Text>
-<Text name="msg_error_pppop_notfound">.PPPoE תרש לכ התהוז אל</Text>
+<Text name="msg_error_pppop_notfound">.PPPoE תרש לכה התהוז אל</Text>
 <Text name="msg_error_pppoe_disconnect">.דבא PPPoE תרשל רוביחה</Text>
 <Text name="msg_error_pppoe_error">.האיגש לע חוויד PPPoE תרש</Text>
 <Text name="msg_error_pppoe_wrong_idpw">.היוגש המסיס וא PPPoE שמתשמה םש</Text>
 <Text name="msg_error_dhcp_com">.DHCP תרושקת האיגש התיה</Text>
-<Text name="msg_error_dhcp_notfound">.DHCP תרש לכ התהוז אל</Text>
+<Text name="msg_error_dhcp_notfound">.DHCP תרש לכה התהוז אל</Text>
 <Text name="msg_error_ap_disconnect">.דבא השיגה תדוקנל רוביחה</Text>
 <Text name="msg_error_wless_weak">.שלח תויהל יושע תואה</Text>
 <Text name="msg_error_reconnect">.בוש הסנ אנ .רוביח תאיגש שי</Text>
@@ -202,7 +202,7 @@
 <Text name="msg_error_authenticate_timeout">.תומיאה תלועפ רובע ןמז קספ</Text>
 <Text name="msg_error_keyexchange_timeout">.בושח עדימ יפוליחל ןמזה קספ</Text>
 <Text name="msg_error_ipaddress_timeout">.IP-ה תבותכ תא אוצמל ןמז יתיליב</Text>
-<Text name="msg_error_ap_notfound">.השיג תדוקנ לכ תוהזל היה אל הז</Text>
+<Text name="msg_error_ap_notfound">.השיג תדוקנ לכה תוהזל היה אל הז</Text>
 <Text name="msg_error_congestion_netservice2">.קוסע PlayStation ® Network</Text>
 <Text name="msg_maynot_enter_see_online_manual">.טנרטניאב תוארוהה ךירדמב ןייע ,ףסונ עדימ תלבקל .לבגומ תויהל לוכי םיקחשמ לש תרושקת וא טא'צ תוילנויצקנופה ,3 אוה NAT גוס םא</Text>
 <Text name="msg_router_no_ipfragments_ask_manufacturer_pls">.בתנה ןרציל הנפ ,םיטרפל .תלבגומ איה םימיוסמ םיקחשמ לש תרושקתה תונוכתו IP ירבש ךמות וניא ךלש בתנה יכ ןכתי</Text>

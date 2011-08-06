@@ -22,7 +22,7 @@
 <Text name="msg_psp_bracket">PSP ™ (PlayStation ® Portable) 1%</Text>
 <Text name="msg_psp_name">יוניכ</Text>
 <Text name="msg_usb">USB ןקתה</Text>
-<Text name="msg_usb_id">(USB (% 1 ןקתה</Text>
+<Text name="msg_usb_id">(1%) 'סמ USB ןקתה</Text>
 <Text name="msg_digitalcamera">תילטיגיד המלצמ</Text>
 <Text name="msg_digitalcamera_id">(1 %) תילטיגיד המלצמ</Text>
 <Text name="msg_walkman">ATRAC Audio Device</Text>
@@ -50,7 +50,7 @@
 <Text name="msg_time_num1">% 1% 2% 3</Text>
 <Text name="msg_time_num2">% 1% 2 '% 3''</Text>
 <Text name="msg_time_num3">1% '% 2''</Text>
-<Text name="msg_sort">יפל</Text>
+<Text name="msg_sort">יפל ןיימ</Text>
 <Text name="msg_importeddate_f">אוביי ▲ ךיראת</Text>
 <Text name="msg_importeddate_r">▼ אוביי ךיראת</Text>
 <Text name="msg_sale_year_f">▲ םוסרפ תנש</Text>
@@ -59,7 +59,7 @@
 <Text name="msg_genre_f">גוסה םש</Text>
 <Text name="msg_artist_f">ןמא</Text>
 <Text name="msg_track_f">םש רחא בוקע</Text>
-<Text name="msg_all">לכ</Text>
+<Text name="msg_all">לכה</Text>
 <Text name="msg_year_folder">הנשב</Text>
 <Text name="msg_month_folder">שדוח דע</Text>
 <Text name="msg_album_folder">םובלא יפל</Text>
@@ -68,10 +68,10 @@
 <Text name="msg_sale_year_folder">םוסרפ תנש יפל</Text>
 <Text name="msg_track_folder">רחא בוקעל ידכ</Text>
 <Text name="msg_title_folder">תרתוכ יפל</Text>
-<Text name="msg_format_folder">לחתאל ידכ</Text>
+<Text name="msg_format_folder">טמרופ יפל</Text>
 <Text name="msg_copy">קתוע</Text>
 <Text name="msg_copy_plural">םיקתוע רפסמ</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_del_plural">םיבורמ ענמנ</Text>
 <Text name="msg_display_all">לכה גצה</Text>
 <Text name="msg_cddbdata_get">CD לע עדימ לבקל</Text>
@@ -84,7 +84,7 @@
 <Text name="msg_pause">הקספה</Text>
 <Text name="msg_plus">+</Text>
 <Text name="msg_minus">-</Text>
-<Text name="msg_folder_class_with_icon"> ןכות תצובק</Text>
+<Text name="msg_folder_class_with_icon"> ןכות יפל תצובק</Text>
 <Text name="msg_option_with_icon">תויורשפא :</Text>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_size">לדוג</Text>
@@ -155,7 +155,7 @@
 <Text name="msg_select_all">לכה רחב</Text>
 <Text name="msg_deselect_all">לכה הקנ</Text>
 <Text name="msg_sure_to_delete_ask">?הז תא קוחמל הצור תמאב התא</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error_no_folder">.הייקית ןיא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
@@ -172,7 +172,7 @@
 <Text name="msg_error_same_name_cannot_use">.רחא םש וניזה .שומישב אצמנ רבכ הז םש</Text>
 <Text name="msg_add_to_playlist">העמשה תמישרל ףסוה</Text>
 <Text name="msg_add_playlist">ףיסוהל</Text>
-<Text name="msg_add_all_playlist">לכ ףסוה</Text>
+<Text name="msg_add_all_playlist">לכה ףסוה</Text>
 <Text name="msg_delete_playlist_ask">?ךישמהל הצור תמאב התא .ולטובי העמשהה תמישר</Text>
 <Text name="msg_lang_japan">תינפי</Text>
 <Text name="msg_lang_english">תילגנא</Text>
@@ -198,21 +198,21 @@
 <Text name="msg_error_server_connect_timeout">.תרשל רוביחה רובע ןמז קספ</Text>
 <Text name="msg_error_no_image">.הנומת ןיא</Text>
 <Text name="msg_yyyy">1%</Text>
-<Text name="msg_cddbdata_getting">.וכח ... CD לע עדימ שופיח</Text>
+<Text name="msg_cddbdata_getting">.ןתמה אנא ... CD לע עדימ שופיח</Text>
 <Text name="msg_cddbdata_pluralfound_select">.עמשה רוטילקת לש תויורשפאה טירפתמ [רוטילקתב עדימ גישהל] רחב .רוטילקתב עדימ לש םיטס המכ ונאצמ</Text>
 <Text name="msg_cddbdata_send">רוטילקת לע עדימ חלש</Text>
-<Text name="msg_cddbdata_sending">.וכח ... רוטילקתב עדימה תא ןזה</Text>
+<Text name="msg_cddbdata_sending">.ןתמה אנא ... רוטילקתב עדימה תא ןזה</Text>
 <Text name="msg_del_track_protected_ask">?הזה רישה תא קוחמל הצור תמאב התא .ןגומ הז ריש</Text>
-<Text name="msg_del_folder_track_protected_ask">?ךישמהל הצור תמאב התא .ולטובי ,ןגומ הז ללכבו ,וב םירישה לכ תאו הייקיתה</Text>
+<Text name="msg_del_folder_track_protected_ask">?ךישמהל הצור תמאב התא .ולטובי ,ןגומ הז ללכבו ,וב םירישה לכה תאו הייקיתה</Text>
 <Text name="msg_del_track_ask">?הזה רישה תא קוחמל הצור תמאב התא</Text>
-<Text name="msg_del_trackfolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע םירישה לכ תאו הייקיתה</Text>
+<Text name="msg_del_trackfolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע םירישה לכה תאו הייקיתה</Text>
 <Text name="msg_error_no_track">.רישה אל</Text>
 <Text name="msg_error_no_nexttrack">.םינימז םילולסמ ןיא</Text>
 <Text name="msg_error_no_prevtrack">.םינימז םילולסמ ןיא</Text>
 <Text name="msg_track_number_value">1% רחא בוקע</Text>
 <Text name="msg_select_import">םיבורמ אוביי</Text>
 <Text name="msg_error_no_title">.תרתוכ ןיא</Text>
-<Text name="msg_del_titlefolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע תורתוכ לכ תאו הייקיתה</Text>
+<Text name="msg_del_titlefolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע תורתוכ לכה תאו הייקיתה</Text>
 <Text name="msg_error_no_execute">.ןימז עצבמ</Text>
 <Text name="msg_game_start">לחתה</Text>
 <Text name="msg_back_to_original_screen">רוזח</Text>
@@ -231,6 +231,6 @@
 <Text name="msg_content_not_support_remoteplay">.קוחרמ קחשל םאות וניא הז ןכות</Text>
 <Text name="msg_sent">.םלשוה חלש</Text>
 <Text name="msg_edit">יוניש</Text>
-<Text name="msg_dell_msg_all_ask">.וקחמיי ןגומ תועדוהה ?תועדוה לכ תא קחמ</Text>
+<Text name="msg_dell_msg_all_ask">.וקחמיי ןגומ תועדוהה ?תועדוה לכה תא קחמ</Text>
 <Text name="msg_version">הסרג</Text>
 </TextLang>

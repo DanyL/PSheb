@@ -9,7 +9,7 @@
 <Text name="msg_error_local_user_already_signin">.םשרנ רבכ שי "% 1"</Text>
 <Text name="msg_save_pw2">המסיס רומש</Text>
 <Text name="msg_id_email">(ינורטקלא ראוד) יוהיז</Text>
-<Text name="msg_sigining_in">.וכח ... ב םושיר</Text>
+<Text name="msg_sigining_in">.ןתמה אנא ... ב םושיר</Text>
 <Text name="msg_sigining_in_check_network_connection">.תשרל רוביחה תא קודב ,ןמז ידמ רתוי חקול השיגה םא</Text>
 <Text name="msg_error_wrong_idpw">.המסיס וא (ל"אוד תבותכ) ID</Text>
 <Text name="msg_error_other_id_email">.רחא שמתשמל (ינורטקלא ראוד) ךלש הסינכה ההזמ תועצמאב תשגל רוסא</Text>

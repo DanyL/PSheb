@@ -10,7 +10,7 @@
 <Text name="msg_display">ףונ</Text>
 <Text name="msg_comment">הרעה</Text>
 <Text name="msg_need_quit_to_operate_ask">?וישכע הנכותה תא רוגס .]1%] רוגסל ךילע ,תאז תושעל ידכ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_error_network">.תשר תאיגש התיה</Text>
@@ -38,17 +38,17 @@
 <Text name="msg_subject">ץפח</Text>
 <Text name="msg_attach">ףרצל</Text>
 <Text name="msg_send">חולשל</Text>
-<Text name="msg_sending">.וכח ... חלוש</Text>
+<Text name="msg_sending">.ןתמה אנא ... חלוש</Text>
 <Text name="msg_register">ףיסוהל</Text>
 <Text name="msg_reject">ףיסות לא</Text>
 <Text name="msg_reply_msg">הבוגת</Text>
-<Text name="msg_registering">.וכח ... ףיסומ</Text>
+<Text name="msg_registering">.ןתמה אנא ... ףיסומ</Text>
 <Text name="msg_register_request">רבח תשקב תא ףסוה</Text>
 <Text name="msg_error_registered_number_over">.ףיסוהל םישנא לש יברמה רפסמל תעגה</Text>
 <Text name="msg_error_cannot_register_myself">.ךמצע תא ףיסוהל רוסא</Text>
 <Text name="msg_error_already_registered_friend">.דידיכ ףיסוה רבכ םדאה</Text>
 <Text name="msg_error_cannot_register_friend_registering">.הליעפ החיש םרובעש םדאל רבחכ ףיסוהל לוכי אל התא</Text>
-<Text name="msg_asking_to_add">.רבחכ ףיסוהל השקבל רושיא הבושתל תוכחל</Text>
+<Text name="msg_asking_to_add">.רבחכ ףיסוהל השקבל רושיא הבושתל תןתמה אנאל</Text>
 <Text name="msg_error_no_msg">.תועדוה ןנשי</Text>
 <Text name="msg_online_id">ההזמ םירבוחמ</Text>
 <Text name="msg_from">ידי לע</Text>
@@ -67,7 +67,7 @@
 <Text name="msg_msg">העדוה</Text>
 <Text name="msg_voice_msg">תילוק העדוה</Text>
 <Text name="msg_attach_image_select">.ףרצל הנומתה תא רחב</Text>
-<Text name="msg_saving">.וכח ... רמוש</Text>
+<Text name="msg_saving">.ןתמה אנא ... רמוש</Text>
 <Text name="msg_save_incomplete">.הלטוב הלצהה עצבמ .יונפ םוקמ קיפסמ ןיא</Text>
 <Text name="msg_send_gamedata">קחשמ ינותנ חלש</Text>
 <Text name="msg_error_content_over">.רומשל ןתינש ןכות יטירפ לש יברמה רפסמל תעגה</Text>
@@ -78,7 +78,7 @@
 <Text name="msg_re_header">Re:</Text>
 <Text name="msg_save_attached_file_ask">?ףרוצמה ץבוקה תא ורמש</Text>
 <Text name="msg_select_from_chatroom">טא'צ ירדח תמישר ךותמ רחב</Text>
-<Text name="msg_select_from_chatroom_explanation">.ףתתשמ התא ובש טא'צ רדח תריחב ידי לע הרטמכ טא'צ רדחב םינקחשה לכ תא רוחבל ןתינ</Text>
+<Text name="msg_select_from_chatroom_explanation">.ףתתשמ התא ובש טא'צ רדח תריחב ידי לע הרטמכ טא'צ רדחב םינקחשה לכה תא רוחבל ןתינ</Text>
 <Text name="msg_select_chatroom">.טא'צ רדח רחב</Text>
 <Text name="msg_invite_chat">טא'צ הנמזה</Text>
 <Text name="msg_not_join">ףתתשת לא</Text>

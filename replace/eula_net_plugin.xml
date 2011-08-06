@@ -91,7 +91,7 @@
 <Text name="msg_online_id_name_display_psn">.םירחא םינווקמ תונוכתב שמתשמ התא רשאכ טנרטניאב קחשמ התא רשאכ גצומ .PlayStation ® Network עיפוי שמתשמה רשא רוביצה ידי לע ךלש םשה אוה ןווקמ ההזמ</Text>
 <Text name="msg_diff_online_id_signin_id_title_psn">login ההזמ תנווקמ תוהז תדועת ןיב םילדבה</Text>
 <Text name="msg_can_change_signin_id_cannot_change_online_id_psn">.רצונ ןובשחה ירחא ןווקמה ההזמה תא תונשל לוכי ךניא ,רתוי רחואמ הנוש תויהל לוכי הסינכה ההזמ דועב</Text>
-<Text name="msg_checking_psn">.וכח ... עצבתמ</Text>
+<Text name="msg_checking_psn">.ןתמה אנא ... עצבתמ</Text>
 <Text name="msg_available_online_id_psn">.ןווקמ ןפואב הנימז ההזמ</Text>
 <Text name="msg_almost_done_psn">.תטלחומ טעמכ איה ןובשח תריצי</Text>
 <Text name="msg_korean_rrn_psn">RRN</Text>
@@ -151,7 +151,7 @@
 <Text name="msg_sub_account_guide7_psn">.ישארה ןובשחה לעבמ קית ףיסוהל לוכי קר תונרקה .םיפסכ תפסוה לש תרחא תורשפא וא יארשא סיטרכ תועצמאב שארמ קית ףיסוהל שי תונרקה .ןשייטסיילפ ® תונח תועצמאב םיתורישו םינווקמ ןכות שוכרל קית יעצמא קית תלבקל * .קיתה לש ישארה ןובשחה * שמשי ינשמ ןובשח תונרק תועצמאב ושענש תושיכרה תא ןממל ידכ</Text>
 <Text name="msg_sub_account_guide8_psn">.ינשמ ןובשח זאו רטסאמה ןובשח רוציל ךילע הליחת ,רטסאמ ןובשח ידי לע תלהונמ ינשמ ןובשח יפכ</Text>
 <Text name="msg_how_create_mst_account_title_psn">רטסאמ ןובשח תריצי</Text>
-<Text name="msg_how_create_mst_account_guide1_psn">.שמתשמ רוציל ךילע הליחת ,בא ןובשח רוציל ידכ .שמתשמ לכ רובע ןובשח ® PlayStation Network רוציל קר לוכי התא</Text>
+<Text name="msg_how_create_mst_account_guide1_psn">.שמתשמ רוציל ךילע הליחת ,בא ןובשח רוציל ידכ .שמתשמ לכה רובע ןובשח ® PlayStation Network רוציל קר לוכי התא</Text>
 <Text name="msg_how_create_mst_account_guide2_psn">.רטסאמה ןובשח רובע שמתשמ רוציל ידכ [שדח שמתשמ תריצי] >[םישמתשמ] רחב )1</Text>
 <Text name="msg_how_create_mst_account_guide3_psn">.רצונש שדחה שמתשמה םע ™ PS3 תכרעמל הסינכ )2</Text>
 <Text name="msg_how_create_mst_account_guide4_psn">.רטסאמה ןובשח רוציל ידכ ךסמה לע תוארוהה תא עצב ןכמ רחאלו ,[PlayStation ® Network רובע המשרה] ;PlayStation ® Network] > ] רחב )3</Text>

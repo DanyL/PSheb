@@ -10,9 +10,9 @@
 <Text name="msg_corrupted_data">םימוגפ םינותנ</Text>
 <Text name="msg_unsupported_data">םינותנ תכמתנ</Text>
 <Text name="msg_title">תרתוכ</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
@@ -24,7 +24,7 @@
 <Text name="msg_info_detail">םיטרפ</Text>
 <Text name="msg_trophy_count">םיעיבג</Text>
 <Text name="msg_gain_date">ילילש</Text>
-<Text name="msg_del_all_trophy_ask">?ךישמהל הצור תמאב התא .ולטובי הזה קחשמה רובע םיעיבגה לכ</Text>
+<Text name="msg_del_all_trophy_ask">?ךישמהל הצור תמאב התא .ולטובי הזה קחשמה רובע םיעיבגה לכה</Text>
 <Text name="msg_trophy_grade">ראות</Text>
 <Text name="msg_trophy_platinum">הניטלפ</Text>
 <Text name="msg_trophy_gold">בהז</Text>
@@ -33,7 +33,7 @@
 <Text name="msg_synchronized">.םלשומ ןורכניס עצבמ</Text>
 <Text name="msg_error_synchronize">.ןורכניס ךלהמב האיגש העריא</Text>
 <Text name="msg_trophy_achievement_ratio">םיעיבגה זוחא</Text>
-<Text name="msg_sync_pls_wait">.וכח ... תעצבתמ םיעיבגה עדימ ןורכנס</Text>
+<Text name="msg_sync_pls_wait">.ןתמה אנא ... תעצבתמ םיעיבגה עדימ ןורכנס</Text>
 <Text name="msg_hidden_trophy_name">עיבג Hidden</Text>
 <Text name="msg_error_service_stop">.קספוה תורישה</Text>
 <Text name="msg_error_service_maintenance">.הקוזחת תוריש</Text>

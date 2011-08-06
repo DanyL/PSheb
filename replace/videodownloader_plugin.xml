@@ -10,7 +10,7 @@
 <Text name="msg_overwrite_save">רומשלו ףלחה</Text>
 <Text name="msg_save_no">רומשת לא</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_unsupported_data">.ךמתנ וניא םינותנ גוס</Text>
 <Text name="msg_error_del">.קוחמל עצבמה ךלהמב האיגש העריא</Text>
@@ -25,11 +25,11 @@
 <Text name="msg_set_datetime_completed">.המלשוה העשו ךיראת תרדגה</Text>
 <Text name="msg_error_set_datetime">.םייחכונה העשהו ךיראתה תא רזחאל ןתינ אל</Text>
 <Text name="msg_saved">.םירומש</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_error_server_connect_timeout">.תרשל רוביחה רובע ןמז קספ</Text>
 <Text name="msg_error_title_over">.רומשל ןתינש ךרע תוריינ לש יברמה רפסמל תעגה</Text>
 <Text name="msg_error_magicgate_device_required">.םירצוי תויוכז לע הנגה םאותה USB ןקתה ךירצ התא תאז תושעל ידכ</Text>
-<Text name="msg_download_pls_wait">.וכח ... תעצבתמ דרוה</Text>
+<Text name="msg_download_pls_wait">.ןתמה אנא ... תעצבתמ דרוה</Text>
 <Text name="msg_download_cancel_ask">?הדרוהה תא לטבל</Text>
 <Text name="msg_download_complete">.האלמ הדרוה</Text>
 <Text name="msg_error_download_failure">.הדרוהה ךלהמב האיגש העריא</Text>
@@ -49,7 +49,7 @@
 <Text name="msg_invalid_period_certificate">.ןיידע הפקת הניא וא גפ אוה תרשה ידי לע םינתינה רושיאה .ףדה לש ןוחטיבה תא חיטבהל רשפא יא</Text>
 <Text name="msg_no_caroot">.תרשה ידי לע םינתינה CA סיסבה רושיא תא ךירצ אל תכרעמה .ףדה לש ןוחטיבה תא חיטבהל רשפא יא</Text>
 <Text name="msg_server_auth_error">.תומיאה תרש ךלהמב האיגש העריא .ףדה לש ןוחטיבה תא חיטבהל רשפא יא</Text>
-<Text name="msg_install_pls_wait">.וכח ... תעצבתמ הנקתהה</Text>
+<Text name="msg_install_pls_wait">.ןתמה אנא ... תעצבתמ הנקתהה</Text>
 <Text name="msg_installed">.האלמ הנקתה</Text>
 <Text name="msg_error_need_update_psp">.™ PSP רובע תוארוהב ןייע ,גורדש תוטיש לע עדימ תלבקל .™ PSP תכרעמ לש הנכותה תא גרדשמ התא</Text>
 <Text name="msg_select_storage_media">.ןוסחא ינוניב רחב</Text>
@@ -61,7 +61,7 @@
 <Text name="msg_cannot_download_this_content">.הז ןכותל עקרב דירוהל תורשפא ןיא</Text>
 <Text name="msg_other_storage_cannot_background_download">.חישקה ןנוכב רומשת םא עקרב קר הנימז הדרוהה</Text>
 <Text name="msg_error_size_unknown_cannot_background_download">.עקרב הדרוהה תא עצבל לוכי אל התא .עודי אל ןכות לש לדוג</Text>
-<Text name="msg_install_first_then_background_download_pls">.ןכותה תא הליחת ןיקתהל ךילע ,עקרב הדרוהה תא עצבל ידכ .ןקתוה ןכותה לכ אל</Text>
+<Text name="msg_install_first_then_background_download_pls">.ןכותה תא הליחת ןיקתהל ךילע ,עקרב הדרוהה תא עצבל ידכ .ןקתוה ןכותה לכה אל</Text>
 <Text name="msg_error_background_download_over">.עקרב הדרוהה תא עצבל תורשפא ןיא .תינמז וב ליעפהל ןתינש עקרב תודרוה לש יברמה רפסמל תעגה</Text>
-<Text name="msg_saving">.וכח ... רמוש</Text>
+<Text name="msg_saving">.ןתמה אנא ... רמוש</Text>
 </TextLang>

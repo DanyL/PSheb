@@ -7,8 +7,8 @@
 <Text name="msg_game_quit">קחשמ אצ</Text>
 <Text name="msg_back_to_game">קחשמל הרזח</Text>
 <Text name="msg_error_hdd_space_full_more_needed">.רתוי יונפ חטש לש 1% תוחפל תויהל בייח התא .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_unsupported_data">.ךמתנ וניא םינותנ גוס</Text>
@@ -25,7 +25,7 @@
 <Text name="msg_installed_press_circle_to_restart">.%שדחמ ןצחל לע וצחל .האלמ הנקתה</Text>
 <Text name="msg_error_game_cannot_start_wo_install">.חישקה ןנוכה לע ןקתומ ךל שי םא קר ליחתהל ןתינ קחשמה</Text>
 <Text name="msg_game_area_create_ask">?קחשמה לש הציחמה תריצי .תוקד 2% ךרעב חקול הזה עצבמה תא םילשהל ידכ .קחשמה רובע 1% לש הציחמ רוציל ,חישקה ןנוכה לע ותוא ןיקתהל ידכ .חישקה ןנוכה תא םאות קחשמה</Text>
-<Text name="msg_game_area_creating">.וכח ... יחכונה קחשמל הציחמה תריצי</Text>
+<Text name="msg_game_area_creating">.ןתמה אנא ... יחכונה קחשמל הציחמה תריצי</Text>
 <Text name="msg_error_hdd_full_gamearea">.רתוי 1% תוחפל םוקמ תויהל בייח הנקתהה רובע .חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_vmc_create_ask">?וישכע ותוא רוצ .חישקה ןנוכב ימינפ ןורכיז סיטרכ רוציל ךילע ,םינותנ רומשל ידכ</Text>
 <Text name="msg_vmc_create_ask_yes_ps1">.קחשמה תא שדחמ לעפה ןכמ רחאלו ,אבה ךסמב [ימינפ סיטרכ שדח ןורכיז תריצי] מ (PS) ןורכיז סיטרכ תריצי</Text>

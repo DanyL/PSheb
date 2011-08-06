@@ -26,7 +26,7 @@
 <Text name="msg_psp_bracket">PSP ™ (PlayStation ® Portable) 1%</Text>
 <Text name="msg_psp_name">יוניכ</Text>
 <Text name="msg_usb">USB ןקתה</Text>
-<Text name="msg_usb_id">(USB (% 1 ןקתה</Text>
+<Text name="msg_usb_id">(1%) 'סמ USB ןקתה</Text>
 <Text name="msg_digitalcamera">תילטיגיד המלצמ</Text>
 <Text name="msg_digitalcamera_id">(1 %) תילטיגיד המלצמ</Text>
 <Text name="msg_walkman">ATRAC Audio Device</Text>
@@ -47,7 +47,7 @@
 <Text name="msg_time_num3">1% '% 2''</Text>
 <Text name="msg_time_hour_num2">% 1% 2 "</Text>
 <Text name="msg_day_plural">םימי 1 %</Text>
-<Text name="msg_sort">יפל</Text>
+<Text name="msg_sort">יפל ןיימ</Text>
 <Text name="msg_importeddate_f">אוביי ▲ ךיראת</Text>
 <Text name="msg_importeddate_r">▼ אוביי ךיראת</Text>
 <Text name="msg_created_date_time_f">▲ הריצי ךיראת</Text>
@@ -55,7 +55,7 @@
 <Text name="msg_format_f">טמרופ</Text>
 <Text name="msg_title_f">רתוכ םש</Text>
 <Text name="msg_start_date_f">הנורחאל קחוש</Text>
-<Text name="msg_all">לכ</Text>
+<Text name="msg_all">לכה</Text>
 <Text name="msg_year_folder">הנשב</Text>
 <Text name="msg_month_folder">שדוח דע</Text>
 <Text name="msg_album_folder">םובלא יפל</Text>
@@ -64,10 +64,10 @@
 <Text name="msg_sale_year_folder">םוסרפ תנש יפל</Text>
 <Text name="msg_track_folder">רחא בוקעל ידכ</Text>
 <Text name="msg_title_folder">תרתוכ יפל</Text>
-<Text name="msg_format_folder">לחתאל ידכ</Text>
+<Text name="msg_format_folder">טמרופ יפל</Text>
 <Text name="msg_copy">קתוע</Text>
 <Text name="msg_copy_plural">םיקתוע רפסמ</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_del_plural">םיבורמ ענמנ</Text>
 <Text name="msg_display_all">לכה גצה</Text>
 <Text name="msg_titlelist">םירתוכה תמישר</Text>
@@ -77,7 +77,7 @@
 <Text name="msg_disc_eject">קסידה תא אצוה</Text>
 <Text name="msg_info">עדימ</Text>
 <Text name="msg_pause">הקספה</Text>
-<Text name="msg_folder_class_with_icon"> ןכות תצובק</Text>
+<Text name="msg_folder_class_with_icon"> ןכות יפל תצובק</Text>
 <Text name="msg_option_with_icon">תויורשפא :</Text>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_size">לדוג</Text>
@@ -111,7 +111,7 @@
 <Text name="msg_owner">לעב</Text>
 <Text name="msg_info_valid_from">לחתה</Text>
 <Text name="msg_info_valid_to">הגופת</Text>
-<Text name="msg_all_use_content_delete_cannot_use">.ןכותה קחשל לוכי אל התא ,םיקחמנ ילעב לכ םא ,תאז םע .ןכות הזב שמתשהל לוכי ,םילעבה דבלמ םירחא םישנא</Text>
+<Text name="msg_all_use_content_delete_cannot_use">.ןכותה קחשל לוכי אל התא ,םיקחמנ ילעב לכה םא ,תאז םע .ןכות הזב שמתשהל לוכי ,םילעבה דבלמ םירחא םישנא</Text>
 <Text name="msg_model">לדומ</Text>
 <Text name="msg_can_play_only_for_variable_hours">.)1% העש קר ןושארה רודה ירחא הרזח קחשמ תויהל לוכי ןכותה יכ ןייצל שי)</Text>
 <Text name="msg_video_description">רואת</Text>
@@ -148,10 +148,10 @@
 <Text name="msg_select_all">לכה רחב</Text>
 <Text name="msg_deselect_all">לכה הקנ</Text>
 <Text name="msg_sure_to_delete_ask">?הז תא קוחמל הצור תמאב התא</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error_no_folder">.הייקית ןיא</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_del">.קוחמל עצבמה ךלהמב האיגש העריא</Text>
 <Text name="msg_scan_mediaserver">הידמ יתרש שופיח</Text>
@@ -227,7 +227,7 @@
 <Text name="msg_error_no_title">.תרתוכ ןיא</Text>
 <Text name="msg_title_number_value">1% תרתוכ</Text>
 <Text name="msg_del_title_ask">?ךישמהל הצור תמאב התא .וקחמיי תרתוכה</Text>
-<Text name="msg_del_titlefolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע תורתוכ לכ תאו הייקיתה</Text>
+<Text name="msg_del_titlefolder_ask">?ךישמהל הצור תמאב התא .וקחמיי הז לע תורתוכ לכה תאו הייקיתה</Text>
 <Text name="msg_del_camerafolder_video_ask">?ךישמהל הצור תמאב התא .ולטובי ,ןגומ ללוכ ,םירתוכ לכו הייקיתה</Text>
 <Text name="msg_del_title_protected_ask">?תרתוכה תא קוחמל הצור תמאב התא .תנגומ איה תרתוכה</Text>
 <Text name="msg_corrupted_copyright">.רזחושי םיקוזינ םירצוי תויוכז לע הנגה לע עדימה</Text>
@@ -262,8 +262,8 @@
 <Text name="msg_variable_download_error">תדרוהב האיגש  1%%%</Text>
 <Text name="msg_variable_download_waiting">1% הנתמהב %%</Text>
 <Text name="msg_variable_download_pausing">לדייא  1%%%</Text>
-<Text name="msg_pause_all">לכ ההשה</Text>
-<Text name="msg_resume_all">לכ תא שדחל</Text>
+<Text name="msg_pause_all">לכה ההשה</Text>
+<Text name="msg_resume_all">לכה תא שדחל</Text>
 <Text name="msg_progress">הנידמ</Text>
 <Text name="msg_resume">םייח תורוק</Text>
 <Text name="msg_install">ןיקתהל</Text>

@@ -7,7 +7,7 @@
 <Text name="msg_yes">ןכ</Text>
 <Text name="msg_no">אל</Text>
 <Text name="msg_fix_with_icon"> רושיא</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
@@ -49,7 +49,7 @@
 <Text name="msg_savedata_mc_copy_ask">?ךשמה .ךלש חישקה ןנוכל קתעוי רחבנה ןורכיזה סיטרכב םינסחואמה םינותנה</Text>
 <Text name="msg_vmc_name_set">.ימינפה ןורכיזה סיטרכ רובע םש ןזה</Text>
 <Text name="msg_savedata_copied_cannot_copy">.םיקתעומ אל ורמשנש םינותנה הקתעה תנגה .המלשוה קתעה</Text>
-<Text name="msg_all_savedata_cannot_copy">.הקתעה ינפמ םינגומ ןורכיז סיטרכב םירומשה םינותנה לכ</Text>
+<Text name="msg_all_savedata_cannot_copy">.הקתעה ינפמ םינגומ ןורכיז סיטרכב םירומשה םינותנה לכה</Text>
 <Text name="msg_created_vmc_slot1_assigned">.תויורשפא טירפתב םינוש טלק רוחבלו [ןורכיז סיטרכ Utility] ימינפה ןורכיזה סיטרכ תא רחב ,טלקה תא תונשל ידכ .1 טלק הצקוה ימינפ ןורכיז סיטרכ</Text>
 <Text name="msg_created_vmc_slot_assigned_pls">.תויורשפא טירפתב וצקוי טלקה תא רוחבלו [ןורכיז סיטרכ Utility] ימינפה ןורכיזה סיטרכ תא רחב .טלק ותוא תוצקהל ךילע ,ימינפ ןורכיז סיטרכב שמתשהל ידכ</Text>
 <Text name="msg_new_vmc_type_select">.רוציל ימינפה ןורכיזה סיטרכ תא רחב</Text>

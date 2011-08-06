@@ -6,7 +6,7 @@
 <Text name="msg_zoom">םוז</Text>
 <Text name="msg_fast">רהמ</Text>
 <Text name="msg_slow">טאל</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_displaymode">הגוצת יבצמ</Text>
 <Text name="msg_repeat">לע רוזחל</Text>
 <Text name="msg_slideshow_change">הירלג ןונגס</Text>
@@ -32,7 +32,7 @@
 <Text name="msg_help_fast_r_photo">+  : Rewind</Text>
 <Text name="msg_help_fast_f_photo">+  : Fast Forward</Text>
 <Text name="msg_info_none">-</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
@@ -121,5 +121,5 @@
 <Text name="msg_exif_adobe_rgb">AdobeRGB</Text>
 <Text name="msg_left">לאמש</Text>
 <Text name="msg_right">תוכז</Text>
-<Text name="msg_saving">.וכח ... רמוש</Text>
+<Text name="msg_saving">.ןתמה אנא ... רמוש</Text>
 </TextLang>

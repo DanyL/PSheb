@@ -5,7 +5,7 @@
 <Text name="msg_fix">רושיא</Text>
 <Text name="msg_yes">ןכ</Text>
 <Text name="msg_no">אל</Text>
-<Text name="msg_help_dell_all_osk">לכ תא קחמ : + :</Text>
+<Text name="msg_help_dell_all_osk">לכה תא קחמ : + :</Text>
 <Text name="msg_line_break_bule_icon_enter_osk">הרוש רבעמ :[ןזה] + []</Text>
 <Text name="msg_copied">.המלשוה קתעה</Text>
 <Text name="msg_error">.האיגש העריא</Text>
@@ -57,7 +57,7 @@
 <Text name="msg_space_osk">בחרמ</Text>
 <Text name="msg_back_space_osk">Backspace</Text>
 <Text name="msg_line_break_alt_enter_osk">הרוש רבעמ :[Alt] + [Enter]</Text>
-<Text name="msg_del_all_shift_backspace_osk">לכ תא קחמ :[Shift] + [Backspace]</Text>
+<Text name="msg_del_all_shift_backspace_osk">לכה תא קחמ :[Shift] + [Backspace]</Text>
 <Text name="msg_input_cancel_ask">?טסקטה לש הסינכה לוטיב</Text>
 <Text name="msg_select_range_to_copy">.קיתעהל חווט תא ןייצ</Text>
 <Text name="msg_start2">לחתה</Text>

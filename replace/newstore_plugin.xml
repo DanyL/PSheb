@@ -162,11 +162,11 @@
 <Text name="msg_already_purchased_software_dowmload_pls_psn">.ותוא דירוהל [הדרוה] ץחל .ושכרנ רבכ וז הנכות</Text>
 <Text name="msg_no_content_found_psn">.ואצמנ אל האצותה</Text>
 <Text name="msg_cannot_download_psn">.הז ןכות דירוהל תורשפא ןיא</Text>
-<Text name="msg_download_all_psn">תודרוהה לכ</Text>
+<Text name="msg_download_all_psn">תודרוהה לכה</Text>
 <Text name="msg_cannot_download_from_ps3_psn">.™ PS3 תכרעממ דירות לא</Text>
 <Text name="msg_crew_director_producer_psn">הקפה / להנמ</Text>
 <Text name="msg_crew_writer_psn">טירסת</Text>
-<Text name="msg_all_psn">לכ</Text>
+<Text name="msg_all_psn">לכה</Text>
 <Text name="msg_title_psn">תרתוכ</Text>
 <Text name="msg_video_description_psn">רואת</Text>
 <Text name="msg_doesnot_have_enough_funds_psn">.השיכרה תא םילשהל ידכ םיפסכ יד שי קיתב</Text>
@@ -249,7 +249,7 @@
 <Text name="msg_content_already_download_update_copyright_psn">.ןוישירה תא קר שודיח היהי הז .ודרוה רבכ הז ןכות</Text>
 <Text name="msg_cancel_ask">?לוטיב</Text>
 <Text name="msg_error_use_account">.הז ןובשח םע ® PlayStation תשרב שמתשהל ןתינ אל</Text>
-<Text name="msg_sending">.וכח ... חלוש</Text>
+<Text name="msg_sending">.ןתמה אנא ... חלוש</Text>
 <Text name="msg_signed_out">.Out עציב</Text>
 <Text name="msg_dvd_lang_aa">םיקחרמל</Text>
 <Text name="msg_dvd_lang_ab">תיזחבא</Text>

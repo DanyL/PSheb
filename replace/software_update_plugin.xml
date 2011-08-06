@@ -7,13 +7,13 @@
 <Text name="msg_disc">קסיד</Text>
 <Text name="msg_usb">USB ןקתה</Text>
 <Text name="msg_fix">רושיא</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_press_ps_button_operate">.רקבב שמתשהל PS ןצחל לע וצחל</Text>
 <Text name="msg_error_update_lasttime_update_ask">?גרדשל הסנ .םדוקה ןוכדעה תא םילשהל היה ןתינ אל</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
-<Text name="msg_canceling">.וכח ... לטבמ</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
+<Text name="msg_canceling">.ןתמה אנא ... לטבמ</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_unsupported_data">.ךמתנ וניא םינותנ גוס</Text>
@@ -26,7 +26,7 @@
 <Text name="msg_update">תכרעמ ןוכדע</Text>
 <Text name="msg_remain_time">רתונש ןמזה</Text>
 <Text name="msg_sec">1 / 2%</Text>
-<Text name="msg_searching">.וכח ... הקירס</Text>
+<Text name="msg_searching">.ןתמה אנא ... הקירס</Text>
 <Text name="msg_update_copying_donot_turn_off_arcade">.תכרעמה תא תובכל ןיא ... חישקה קסידה תא ןכדעל ידכ םינותנ תקתעה</Text>
 <Text name="msg_eject_media_auto_restart_arcade">.יטמוטוא ןפואב שדחמ לעפות תכרעמה ,ןוסחא ינוניב תרסה ידי לע .ןוכדעה ךיראת הז ליכמה ןוסחאה יעצמא תא רסה</Text>
 <Text name="msg_tool_updatedata_installed_variable_version">.וז תכרעמ לע ןיקתהל ןתינ אל רחואמב וא 1% לש הסרג ןוכדע ךיראת</Text>
@@ -45,7 +45,7 @@
 <Text name="msg_update_select">.ןוכדעה תטיש רחב</Text>
 <Text name="msg_update_net">טנרטניאה ךרד ןוכדע</Text>
 <Text name="msg_update_media">ןוסחא יעצמא תועצמאב ןוכדע</Text>
-<Text name="msg_checking">.וכח ... עצבתמ</Text>
+<Text name="msg_checking">.ןתמה אנא ... עצבתמ</Text>
 <Text name="msg_update_new_found">.ןורחאה ןוכדעה ואצמנ ינותנ</Text>
 <Text name="msg_update_new_found_use_updater_psstore_auto_download">.ןשייטסיילפ ® תונח לש תיטמוטואה הדרוהה ךלהמב חישקה קסידב תדרוהש ןוכדעה םינותנב שמתשהל תכרעמה .ןורחאה ןוכדעה ואצמנ ינותנ</Text>
 <Text name="msg_update_follow_found">:אבה ןוכדעה ינותנ תא ונאצמ</Text>

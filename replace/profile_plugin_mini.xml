@@ -3,9 +3,9 @@
 <TextLang>
 <Text name="msg_info_none">-</Text>
 <Text name="msg_comment">הרעה</Text>
-<Text name="msg_deleting">.וכח ... תעצבתמ הקיחמה</Text>
+<Text name="msg_deleting">.ןתמה אנא ... תעצבתמ הקיחמה</Text>
 <Text name="msg_deleted">.המלשוה תקיחמ</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_corrupted_data">.םוגפ םינותנה</Text>
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
@@ -37,7 +37,7 @@
 <Text name="msg_trophy_silver">ףסכ</Text>
 <Text name="msg_trophy_bronze">הזנורב</Text>
 <Text name="msg_trophy_level">המר</Text>
-<Text name="msg_sync_pls_wait">.וכח ... תעצבתמ םיעיבגה עדימ ןורכנס</Text>
+<Text name="msg_sync_pls_wait">.ןתמה אנא ... תעצבתמ םיעיבגה עדימ ןורכנס</Text>
 <Text name="msg_error_dns">.DNS תאיגש .תרשה םע תרושקתה ךלהמב האיגש העריא</Text>
 <Text name="msg_error_server_transaction_failure">.תרשה םע תרושקתה ךלהמב האיגש העריא</Text>
 <Text name="msg_error_server">.תרש תאיגש התיה</Text>
@@ -60,7 +60,7 @@
 <Text name="msg_information">עדימ</Text>
 <Text name="msg_played_date_hour">קחוש</Text>
 <Text name="msg_add_ignore_list_ask">?ךשמה .ךלש תועדוהה תא לבקל לוכי אל רבכ התא ,קולבה לש המישרל ףסוותמ םדא םא</Text>
-<Text name="msg_adding">.וכח ... ףיסומ</Text>
+<Text name="msg_adding">.ןתמה אנא ... ףיסומ</Text>
 <Text name="msg_del_from_ignore_list">םוסחל תמישרמ הרסה</Text>
 <Text name="msg_del_ignore_list_ask">?ךלש שוגמ םדא תא קוחמל הצור תמאב התא</Text>
 <Text name="msg_error_try_again_later">.רתוי רחואמ בוש הסנ אנ .האיגש העריא</Text>

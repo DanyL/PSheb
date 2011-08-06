@@ -4,7 +4,7 @@
 <Text name="msg_power_off_console2">תכרעמה יוביכ</Text>
 <Text name="msg_on">ליעפ</Text>
 <Text name="msg_off">תבשה</Text>
-<Text name="msg_del">קוחמל</Text>
+<Text name="msg_del">קחמ</Text>
 <Text name="msg_info">עדימ</Text>
 <Text name="msg_option_with_icon">תויורשפא :</Text>
 <Text name="msg_info_none">-</Text>
@@ -15,7 +15,7 @@
 <Text name="msg_need_quit_game_to_operate_ask">?וישכע קחשמה תא אצ .קחשמה תא תאצל בייח התא תאז תושעל ידכ</Text>
 <Text name="msg_need_quit_to_operate_ask">?וישכע הנכותה תא רוגס .]1%] רוגסל ךילע ,תאז תושעל ידכ</Text>
 <Text name="msg_cannot_back_to_ps_home_ask">?ךשמה .PlayStation ® Home רוזחל לוכי אל התא ,תאז השעת םא</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_to_enable_setting_enable_auto_login">.ןווקמה ךירדמב ןייע ,תיטמוטוא הסינכ תרדגה תודוא עדימ תלבקל .[םישמתשמ] תחת שמתשמה רובע תיטמוטוא הסינכ רידגהל ךילע ,הלאה תורדגהה תא רשפאל ידכ 1% .תואבה תורדגהה תא לטיב םייונישה</Text>
 <Text name="msg_remoteplay_remote_start">[קוחרמ לחתה] [Remote Play תורדגה] [ תורדגה ]</Text>
 <Text name="msg_console_setting_auto_download">[תיטמוטוא הדרוה] [ תורדגה ] [ תכרעמ תורדגה ]</Text>

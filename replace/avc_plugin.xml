@@ -22,7 +22,7 @@
 <Text name="msg_3">3</Text>
 <Text name="msg_4">4</Text>
 <Text name="msg_5">5</Text>
-<Text name="msg_all">לכ</Text>
+<Text name="msg_all">לכה</Text>
 <Text name="msg_year_folder">הנשב</Text>
 <Text name="msg_month_folder">שדוח דע</Text>
 <Text name="msg_album_folder">םובלא יפל</Text>
@@ -33,9 +33,9 @@
 <Text name="msg_plus">+</Text>
 <Text name="msg_minus">-</Text>
 <Text name="msg_display_display_with_icon"> גצה</Text>
-<Text name="msg_folder_class_with_icon"> ןכות תצובק</Text>
+<Text name="msg_folder_class_with_icon"> ןכות יפל תצובק</Text>
 <Text name="msg_viewmode_with_icon"> הגוצת יבצמ</Text>
-<Text name="msg_folder_class2_with_icon">ןכות תצובק :</Text>
+<Text name="msg_folder_class2_with_icon">ןכות יפל תצובק :</Text>
 <Text name="msg_kbps">1% kbps</Text>
 <Text name="msg_mbps">% 1 Mbps</Text>
 <Text name="msg_error">.האיגש העריא</Text>
@@ -61,7 +61,7 @@
 <Text name="msg_camera_on">המלצמ לע</Text>
 <Text name="msg_camera_off">יובכ המלצמ</Text>
 <Text name="msg_invite_friend">רבח ןמזה</Text>
-<Text name="msg_new_msg_all">לכל העדוה תריצי</Text>
+<Text name="msg_new_msg_all">םלוכל העדוה תריצי</Text>
 <Text name="msg_quit">בוזעל</Text>
 <Text name="msg_participants_list">םיפתתשמה תמישר</Text>
 <Text name="msg_chat_invite_declined">.התחדנ טא'צ ףרטצהל הנמזהה</Text>

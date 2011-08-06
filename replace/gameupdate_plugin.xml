@@ -4,7 +4,7 @@
 <Text name="msg_ok">רושיא</Text>
 <Text name="msg_yes">ןכ</Text>
 <Text name="msg_no">אל</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_software_update">Software Update</Text>
 <Text name="msg_software_update_feature">1 הסרג %הנתשה</Text>
 <Text name="msg_update_quit_software_update">.הנקתהב ליחתהלו הנכותה תא רוגסל רשפאת תכרעמה .ןורחאה ןוכדעה ואצמנ ינותנ</Text>
@@ -15,7 +15,7 @@
 <Text name="msg_error_connect_server">.תרשל רבחתהל תורשפא ןיא</Text>
 <Text name="msg_error_cannot_operate_remoteplay">.קוחרמ קחשמ ךלהמב חותינ עצבל ןתינ אל</Text>
 <Text name="msg_version">הסרג</Text>
-<Text name="msg_updatedata_checking">.וכח ... ןוכדע עצבתמ םינותנה תומיא</Text>
+<Text name="msg_updatedata_checking">.ןתמה אנא ... ןוכדע עצבתמ םינותנה תומיא</Text>
 <Text name="msg_error_connect_proxyserver">.HTTP proxy-ה תרש םע רשק רוציל תורשפא ןיא .תרשל רוביח תעב האיגש העריא</Text>
 <Text name="msg_error_server_maintenance">.רתוי רחואמ בוש הסנ אנ .םינוכדע וא הקוזחת ךרוצל הטמל עגרכ תויהל לוכי תרשה</Text>
 </TextLang>

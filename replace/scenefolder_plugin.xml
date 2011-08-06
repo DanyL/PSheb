@@ -10,7 +10,7 @@
 <Text name="msg_tracks_count_value">םילולסמ 1%</Text>
 <Text name="msg_play">קחשמ</Text>
 <Text name="msg_display">ףונ</Text>
-<Text name="msg_folder_class2_with_icon">ןכות תצובק :</Text>
+<Text name="msg_folder_class2_with_icon">ןכות יפל תצובק :</Text>
 <Text name="msg_help_add_option_play_scenefolder">קחשל :תויורשפא : ףסוה :E%</Text>
 <Text name="msg_help_add_option_pause_scenefolder">ההשה :תויורשפא : ףסוה :E%</Text>
 <Text name="msg_help_add_option_view_scenefolder">הפצ :תויורשפא : ףסוה :E%</Text>
@@ -30,5 +30,5 @@
 <Text name="msg_error_no_content">.ןכות טירפ ןיא</Text>
 <Text name="msg_scenefolder_scenefolder_name">(1 %) העמשה תמישר</Text>
 <Text name="msg_add_scenefolder">ףיסוהל</Text>
-<Text name="msg_add_all_scenefolder">לכ ףסוה</Text>
+<Text name="msg_add_all_scenefolder">לכה ףסוה</Text>
 </TextLang>

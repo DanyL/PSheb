@@ -10,7 +10,7 @@
 <Text name="msg_psp">PSP ™ (PlayStation ® Portable)</Text>
 <Text name="msg_psp_bracket">PSP ™ (PlayStation ® Portable) 1%</Text>
 <Text name="msg_usb">USB ןקתה</Text>
-<Text name="msg_usb_id">(USB (% 1 ןקתה</Text>
+<Text name="msg_usb_id">(1%) 'סמ USB ןקתה</Text>
 <Text name="msg_digitalcamera">תילטיגיד המלצמ</Text>
 <Text name="msg_digitalcamera_id">(1 %) תילטיגיד המלצמ</Text>
 <Text name="msg_walkman">ATRAC Audio Device</Text>
@@ -32,7 +32,7 @@
 <Text name="msg_overwrite_save">רומשלו ףלחה</Text>
 <Text name="msg_save_no">רומשת לא</Text>
 <Text name="msg_error_no_folder">.הייקית ןיא</Text>
-<Text name="msg_wait">... וכח</Text>
+<Text name="msg_wait">... ןתמה אנא</Text>
 <Text name="msg_error">.האיגש העריא</Text>
 <Text name="msg_error_ms_full">.ךלש Memory Stick ™ לע יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_error_ms_locked">.םוסח ™ Memory Stick יסיטרכ</Text>
@@ -59,10 +59,10 @@
 <Text name="msg_can_play_variable_first_play_now_ask">?וישכע וקחש .ןושארה רודה ירחא 1% העש קר לפכשל ןכותה</Text>
 <Text name="msg_error_install_theme_over_delete_other_theme">.תמייק קוחמל ,הזה אשונה תא ןיקתהל ידכ .ןיקתהל ןתינש םיאשונ לש יברמה רפסמל תעגה</Text>
 <Text name="msg_pw">המסיס</Text>
-<Text name="msg_preparing">.וכח ... תעצבתמ הנכהה</Text>
+<Text name="msg_preparing">.ןתמה אנא ... תעצבתמ הנכהה</Text>
 <Text name="msg_update_downloading">.תכרעמה תא תובכל ןיא ... עצבתמ ןוכדעה ינותנ תא דרוה</Text>
 <Text name="msg_authentication_info_save">תומיא עדימ רומש</Text>
-<Text name="msg_download_pls_wait">.וכח ... תעצבתמ דרוה</Text>
+<Text name="msg_download_pls_wait">.ןתמה אנא ... תעצבתמ דרוה</Text>
 <Text name="msg_download_cancel_ask">?הדרוהה תא לטבל</Text>
 <Text name="msg_download_complete">.האלמ הדרוה</Text>
 <Text name="msg_download_incomplete">.לטוב רבכ דירוהל עצבמה .יונפ םוקמ קיפסמ ןיא</Text>
@@ -77,7 +77,7 @@
 <Text name="msg_cannot_download_this_content">.הז ןכותל עקרב דירוהל תורשפא ןיא</Text>
 <Text name="msg_other_storage_cannot_background_download">.חישקה ןנוכב רומשת םא עקרב קר הנימז הדרוהה</Text>
 <Text name="msg_error_size_unknown_cannot_background_download">.עקרב הדרוהה תא עצבל לוכי אל התא .עודי אל ןכות לש לדוג</Text>
-<Text name="msg_install_first_then_background_download_pls">.ןכותה תא הליחת ןיקתהל ךילע ,עקרב הדרוהה תא עצבל ידכ .ןקתוה ןכותה לכ אל</Text>
+<Text name="msg_install_first_then_background_download_pls">.ןכותה תא הליחת ןיקתהל ךילע ,עקרב הדרוהה תא עצבל ידכ .ןקתוה ןכותה לכה אל</Text>
 <Text name="msg_exit_psstore_play_content_download">.הדרוהה ןמזב ועמשוי ןכותהו הרוגס היהת PlayStation ® Store</Text>
 <Text name="msg_play_while_downloading">הקירפ ךלהמב קחש</Text>
 <Text name="msg_remaining_minute_variable">תוקד 1% :רתונש ןמזה</Text>

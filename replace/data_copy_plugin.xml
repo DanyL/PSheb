@@ -27,14 +27,14 @@
 <Text name="msg_error_hdd_full">.חישקה ןנוכב יונפ םוקמ קיפסמ אל</Text>
 <Text name="msg_error_hdd_no_access">.חישקה ןנוכה לא תשגל ןתינ אל</Text>
 <Text name="msg_error_no_storagemedia2">.ןוסחאה םוידמ רבח</Text>
-<Text name="msg_exporting">.וכח ... אוצי יחכונ</Text>
+<Text name="msg_exporting">.ןתמה אנא ... אוצי יחכונ</Text>
 <Text name="msg_exported">.םלשוה אוצי</Text>
 <Text name="msg_export_cancel_ask">?אוצייה תלועפ לוטיב</Text>
 <Text name="msg_error_export">.אוצייה תלועפ תא םילשהל ןתינ אל</Text>
 <Text name="msg_data_export_ask">?אוציה ינותנ</Text>
 <Text name="msg_error_more_than_export_datasize_limit">.אוצייל רתומה יברמה לע הלוע םינותנה לש לדוגה</Text>
-<Text name="msg_importing2">.וכח... אוביי</Text>
-<Text name="msg_imported2">.וכח... אוביי</Text>
+<Text name="msg_importing2">.ןתמה אנא... אוביי</Text>
+<Text name="msg_imported2">.ןתמה אנא... אוביי</Text>
 <Text name="msg_import_cancel_ask2">?אובייה תא לטבל</Text>
 <Text name="msg_error_import2">.אובייה תלועפ תא םילשהל ןתינ אל</Text>
 <Text name="msg_data_import_ask">?אוביה ינותנ</Text>
